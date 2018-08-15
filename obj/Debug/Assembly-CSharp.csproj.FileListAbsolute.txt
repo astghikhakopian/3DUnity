@@ -1,0 +1,586 @@
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Boo.Lang.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/mscorlib.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/System.Core.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/System.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/System.Xml.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.Locator.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEditor.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityScript.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.Cecil.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.DataContract.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Mono.Security.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEditor.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/astghik/Developer/Unity/firstOne/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/astghik/Developer/Unity/firstOne/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/astghik/Developer/Unity/firstOne/obj/Debug/Assembly-CSharp.dll
+/Users/astghik/Developer/Unity/firstOne/obj/Debug/Assembly-CSharp.pdb
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\mscorlib.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\System.Core.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\System.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\System.Xml.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEditor.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityScript.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEditor.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\astgh\Desktop\firstOne\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\astgh\Desktop\firstOne\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\astgh\Desktop\firstOne\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\astgh\Desktop\firstOne\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\astgh\Desktop\firstOne\obj\Debug\Assembly-CSharp.dll
+C:\Users\astgh\Desktop\firstOne\obj\Debug\Assembly-CSharp.pdb
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\mscorlib.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\System.Core.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\System.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\System.Xml.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEditor.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityScript.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEditor.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\astgh\Documents\Unity Projects\firstOne\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\astgh\Documents\Unity Projects\firstOne\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\astgh\Documents\Unity Projects\firstOne\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\astgh\Documents\Unity Projects\firstOne\obj\Debug\Assembly-CSharp.dll
+C:\Users\astgh\Documents\Unity Projects\firstOne\obj\Debug\Assembly-CSharp.pdb
