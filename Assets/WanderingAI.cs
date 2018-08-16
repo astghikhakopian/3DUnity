@@ -3,28 +3,51 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class WanderingAI : MonoBehaviour {
+    public bool _alive;
+
     public float speed = 3.0f;
     public float obstacleRange = 5.0f;
 
+    [SerializeField] private GameObject fireballPrefab;
+    private GameObject _fireball;
+
     // Use this for initialization
     void Start () {
-		
+        _alive = true;
 	}
 
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0, 0, speed * Time.deltaTime); // Move forward continuously every frame, regardless of turning.
+        if (_alive) {
+            transform.Translate(0, 0, speed * Time.deltaTime); // որ առաջ գնա,առանց ֆռալու․ անընդհատ
 
-        Ray ray = new Ray(transform.position, transform.forward); // A ray at the same position and pointing the same direction as the character
-        RaycastHit hit;
-        if (Physics.SphereCast(ray, 0.75f, out hit))
-        {
-            if (hit.distance < obstacleRange)
+            Ray ray = new Ray(transform.position, transform.forward); // A ray at the same position and pointing the same direction as the character
+            RaycastHit hit;
+
+            if (Physics.SphereCast(ray, 0.75f, out hit))
             {
-                float angle = Random.Range(-110, 110); // Turn toward a semirandom new direction
-                transform.Rotate(0, angle, 0);
+                GameObject hitObject = hit.transform.gameObject;
+                if (hitObject.GetComponent<PlayerCharacter>())
+                {
+                    if (_fireball == null)
+                    {
+                        _fireball = Instantiate(fireballPrefab) as GameObject;
+                        _fireball.transform.position =
+                       transform.TransformPoint(Vector3.forward * 1.5f);
+                        _fireball.transform.rotation = transform.rotation;
+                    }
+                }
+                else if (hit.distance < obstacleRange)
+                {
+                    float angle = Random.Range(-110, 110); // ֆռա ու հետ գնա, յանի ռենդոմ ուղղությամբ
+                    transform.Rotate(0, angle, 0);
+                }
             }
         }
+    }
+    public void SetAlive(bool alive)
+    {
+        _alive = alive;
     }
 }
